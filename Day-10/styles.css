@@ -1,0 +1,15 @@
+.main-container {
+    border: 2px solid black;
+    padding: 15px;
+}
+
+.inner-container {
+    background-color: palegoldenrod;
+    border: 18px solid black;
+    padding: 20px;
+}
+
+.outer-container {
+    background-color: lightgray;
+    margin: 8px;
+}
