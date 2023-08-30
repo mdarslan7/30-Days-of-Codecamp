@@ -1,0 +1,25 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+i {
+    font-size: 5vh;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+p {
+    font-size: 3.5vh;
+    cursor: pointer;
+    text-align: center;
+    background-color: beige;
+    padding: 1.2vh;
+}
+
+header {
+    text-align: center;
+    background-color: grey;
+    padding: 4vh;
+}
