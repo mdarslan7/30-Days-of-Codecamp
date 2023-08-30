@@ -1,0 +1,22 @@
+header {
+    box-shadow: 1vh 1vw white;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 2vw;
+}
+
+main {
+    background-color: lightgray;
+    padding: 15vw;
+    text-align: center;
+}
+
+p {
+    opacity: 0.5;
+    font-size: 4vw;
+}
+
+.sprite {
+    background-image: url("img.jpg");
+}
